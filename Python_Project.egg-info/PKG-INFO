@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: Python_Project
+Version: 0.1.0
+Summary: A Python package for data analysis and visualization
+Author-email: Ojekunle Taiwo <taiwo.ojekunle@tu-dortmund.de>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt 
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+
+# Python Project
+
+My Package is a Python package for data cleaning, analysis, and visualization.
+
+## Installation
+
+Clone the repository and install the package locally:
+
+```bash
+pip install .
