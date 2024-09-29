@@ -2,7 +2,7 @@
 
 This project illustrates the use of creating and uitlizing python libraries for data cleaning, analysis, visualization and predictive modeling.
 
-Author(s): Ojekunle Taiwo (224926), Sabze Tchuenkam guy Loïc (242837), Sabarish Suriya
+Author(s): Ojekunle Taiwo (224926), Sabze Tchuenkam guy Loïc (242837) and Sabarish Suriya Swaminathan Ravichandran (242653)
 
 ## Project Overview
 This project analyzes the relationship between GDP and Life Expectancy across different countries. Using a dataset sourced from Kaggle, we explore whether economic prosperity correlates with higher life expectancy.
