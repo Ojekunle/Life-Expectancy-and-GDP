@@ -12,7 +12,7 @@ It also uses predictive modeling to estimate future life expectancy based on GDP
 
 ### Key Features
 - Python package for data cleaning and visualization.
-- Linear regression analysis to examine relationships between GDP and Life Expectancy.
+- Correlation analysis to examine relationships between GDP and Life Expectancy.
 - Predictive Modeling using linear regression to forecast life expectancy based on future GDP values.
 - Detailed Jupyter notebook with data analysis ,visualizations and predictions.
 
